@@ -1,3 +1,4 @@
+
 # SIMULATION OF PHASE CONTROL CHARACTERISTICS OF SILICON CONTROLLED RECTIFIER
 
 ## AIM:
@@ -15,23 +16,19 @@ LT-Spice
 
 4.Complete the connections.
 
-5.Add the thyristr.lib file using spice directive.
-
-6.Right click on the voltage1 soruce and modify the values as SINE(0 10 50) and votage2 source modify the value as PULSE(0 5 3m 1n 1n 2m 20m).
+5.Right click on the components and modify the values of the components.
 
 6.Save the file by giving file name.
 
-7.Click on the run option --> click advanced open --> select TRAN analysis --> enter the  stop time value.
+7.Click on the run option  click advanced open  select AC analysis  enter the amplitude, time delay, stop time value.
 
-8.Click on the run option --> simulation window opens --> place the probe --> output graph is obtained.
+8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM/OUTPUT GRAPH:
+<img width="1920" height="1200" alt="Screenshot 2025-11-15 144842" src="https://github.com/user-attachments/assets/81b0c5dd-c691-43e4-aa34-7bdcc55e9533" />
 
 
-
-## OUTPUT GRAPH:
 
 
 ## RESULT:
 Thus the phase control characteristics of SCR using LT-spice is simulated and verified. 
-
